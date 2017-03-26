@@ -65,7 +65,7 @@ function gulpReplace(replaceIn, replaceOf) {
             file.contents = replaceCall(contents, replace, true);
         }
 
-        this.push(file); return callback(null, file);
+        return callback(null, file);
     });
 };
 
