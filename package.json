@@ -1,0 +1,30 @@
+{
+  "name": "gulp-replace-plus",
+  "version": "0.1.0",
+  "description": "A string replace plugin for gulp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/niluanxy/gulp-replace-plus.git"
+  },
+  "keywords": [
+    "gulp-replace-plus",
+    "gulpplugin",
+    "replace"
+  ],
+  "author": "smufeng",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/niluanxy/gulp-replace-plus/issues"
+  },
+  "homepage": "https://github.com/niluanxy/gulp-replace-plus#readme",
+  "devDependencies": {
+    "replacestream": "^4.0.2"
+  },
+  "dependencies": {
+    "replacestream": "^4.0.2"
+  }
+}
